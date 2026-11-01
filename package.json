@@ -1,0 +1,16 @@
+{
+  "name": "club-treasury-dapp",
+  "version": "1.0.0",
+  "description": "Transparent, trustworthy club treasury dApp with balance sheet & zero backdoors",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "deploy:localhost": "hardhat run scripts/deploy.js --network localhost"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.0"
+  }
+}
