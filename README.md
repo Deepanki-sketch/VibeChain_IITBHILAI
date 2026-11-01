@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ ClubTreasury Pro — Trustworthy Decentralized Club Accounting & Treasury
 
 > **VIBECHAIN – The Ultimate Blockchain Challenge | MERAZ 7.0 (DSC × BIB) @ IIT Bhilai**  
@@ -146,3 +147,6 @@ Key security properties to verify:
 ## Team & Credits
 - **Event:** VIBECHAIN – MERAZ 7.0 (DSC × BIB)
 - **Venue:** L-101, LHC, IIT Bhilai
+=======
+# VibeChain_IITBHILAI
+>>>>>>> da86a38e3c87d3f227fc297c82fb708af02ce8dd
